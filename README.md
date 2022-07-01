@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Drona-16
+- 👋 Hi, I’m @Ankit Yadav
 - 👀 I’m interested in Basketball
-- 🌱 I’m currently learning some things
+- 🌱 I’m currently vice-president of IIIT Ranchi
 - 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me via email:aktaav02@gmail.com
 
